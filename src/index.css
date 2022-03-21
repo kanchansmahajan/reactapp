@@ -1,0 +1,13 @@
+.topimg{
+  background-image: url(D:\REACT DEVELOPEMENT\my-app\public\images\salad-2068220__340.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+  z-index: 1;
+  
+}
+.searchbox{
+  position:absolute;
+  right: 1rem;
+} 
